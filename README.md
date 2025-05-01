@@ -11,27 +11,26 @@
 - 🚀 Hiperfoco do momento:Apps Saas, APIs e IA Chatbot
 
 ## Tech Stack & Ferramentas
-<!-- Linguagens -->
+- Linguagens
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 
-<!-- Front-end -->
+- Front-end
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-EF4056?style=flat&logo=streamlit)
-
-<!-- Back-end & APIs -->
+- Back-end & APIs
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
 
-<!-- Cloud & DevOps -->
+- Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 
-<!-- Inteligência Artificial -->
+- Inteligência Artificial
 ![AI](https://img.shields.io/badge/-AI-000?style=flat&logo=artificial-intelligence)
 
-<!-- Outros -->
+- Outros
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
 
