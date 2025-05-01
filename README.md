@@ -1,6 +1,6 @@
 <!-- Banner de boas-vindas -->
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Paisagem com uma rua em uma cidade com carros e pessoas passando em um dia chuvoso" />
+  <img src="https://www.linkedin.com/in/danilo-novaes-s/overlay/background-image/" alt="Paisagem com uma rua em uma cidade com carros e pessoas passando em um dia chuvoso" />
 </p>
 
 # Olá, eu sou o Danilo 👋
