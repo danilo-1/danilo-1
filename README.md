@@ -1,6 +1,6 @@
 <!-- Banner de boas-vindas -->
 <p align="center">
-  <img src="https://www.linkedin.com/in/danilo-novaes-s/overlay/background-image/" alt="Paisagem com uma rua em uma cidade com carros e pessoas passando em um dia chuvoso" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFjApeBsR28UQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713151002830?e=1751500800&v=beta&t=B5gO8VwMfZvCvmGw4Hk-pa0SlRuVi6-qo92mfVU4uGc" alt="Paisagem com uma rua em uma cidade com carros e pessoas passando em um dia chuvoso" />
 </p>
 
 # Olá, eu sou o Danilo 👋
